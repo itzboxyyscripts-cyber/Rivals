@@ -1,7 +1,7 @@
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
-local VALID_KEY = "X8d2V9lQ7rKp3T6nF4Z1mA5C"
+local VALID_KEY = "Q5L8X2R9M4T7Z1"
 local DISCORD_LINK = "https://discord.gg/fY85GBAAW"
 
 local keyGui = Instance.new("ScreenGui")
